@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T20:08:09.640Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VD5L6qEqdug_4vWp0jGi" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T20:11:47.742Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="HHCyX5FUHA7vC67SDb5r" version="24.2.5" type="github">
   <diagram id="RiWKcLgWkrJcIcHR27N2">
     <mxGraphModel dx="441" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,8 +10,8 @@
         <mxCell id="VYimN6RkKvtl3lPOf37L-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-4" target="VYimN6RkKvtl3lPOf37L-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-4" value="Consume" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="143" width="100" height="60" as="geometry" />
+        <mxCell id="VYimN6RkKvtl3lPOf37L-4" value="Consume&lt;div&gt;(API, Applications)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="143" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VYimN6RkKvtl3lPOf37L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="VYimN6RkKvtl3lPOf37L-4">
           <mxGeometry relative="1" as="geometry">
@@ -22,7 +22,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VYimN6RkKvtl3lPOf37L-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
-          <mxGeometry x="445" y="50" width="50" height="50" as="geometry" />
+          <mxGeometry x="455" y="50" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VYimN6RkKvtl3lPOf37L-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-9" target="VYimN6RkKvtl3lPOf37L-4">
           <mxGeometry relative="1" as="geometry" />
@@ -46,8 +46,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-14" value="Feature&lt;div&gt;Engineering&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="350" width="100" height="70" as="geometry" />
+        <mxCell id="VYimN6RkKvtl3lPOf37L-14" value="Feature&lt;div&gt;Engineering&lt;/div&gt;&lt;div&gt;(Extract and Select Features)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="91" y="310" width="120" height="130" as="geometry" />
         </mxCell>
         <mxCell id="VYimN6RkKvtl3lPOf37L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-15" target="VYimN6RkKvtl3lPOf37L-9">
           <mxGeometry relative="1" as="geometry">
@@ -91,7 +91,7 @@
         <mxCell id="VYimN6RkKvtl3lPOf37L-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-25" target="VYimN6RkKvtl3lPOf37L-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-25" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
+        <mxCell id="VYimN6RkKvtl3lPOf37L-25" value="Data Lake" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
           <mxGeometry x="200" y="465" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VYimN6RkKvtl3lPOf37L-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="VYimN6RkKvtl3lPOf37L-24">
