@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T19:45:38.799Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" version="24.2.5" etag="BPRbtRSvnMSLh1CCwwLV" type="github">
-  <diagram name="Page-1" id="mjNRZ8CUG0cz6ZGgxQVi">
+<mxfile>
+  <diagram>
     <mxGraphModel>
       <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <!-- Rectangles -->
+        <mxCell id="2" value="Data Sources" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="3" value="Ingest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="100" width="100" height="60" as="geometry"/>
+        </mxCell>
+        <!-- More cells for each step in the process -->
+        <!-- ... -->
+        <!-- Connectors -->
+        <mxCell id="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry width="50" height="50" as="geometry"/>
+        </mxCell>
+        <!-- More connectors for each connection in the process -->
+        <!-- ... -->
       </root>
     </mxGraphModel>
   </diagram>
