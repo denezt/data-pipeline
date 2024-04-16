@@ -1,24 +1,41 @@
-<mxfile>
-  <diagram>
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2024-04-16T19:55:48.111Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="D0XEbQD1jQe2dLJG6Dk-" version="24.2.5" type="github">
+  <diagram id="RiWKcLgWkrJcIcHR27N2">
+    <mxGraphModel dx="441" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
-        <mxCell id="0"/>
-        <mxCell id="1" parent="0"/>
-        <!-- Rectangles -->
-        <mxCell id="2" value="Data Sources" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="20" width="100" height="60" as="geometry"/>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Data Sources" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="100" y="64" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="Ingest" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="100" width="100" height="60" as="geometry"/>
+        <mxCell id="VYimN6RkKvtl3lPOf37L-4" value="Consume" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="153" width="100" height="60" as="geometry" />
         </mxCell>
-        <!-- More cells for each step in the process -->
-        <!-- ... -->
-        <!-- Connectors -->
-        <mxCell id="4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2" target="3">
-          <mxGeometry width="50" height="50" as="geometry"/>
+        <mxCell id="VYimN6RkKvtl3lPOf37L-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.4;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="VYimN6RkKvtl3lPOf37L-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="150" y="134" />
+              <mxPoint x="380" y="134" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <!-- More connectors for each connection in the process -->
-        <!-- ... -->
+        <mxCell id="VYimN6RkKvtl3lPOf37L-8" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="365" y="60" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VYimN6RkKvtl3lPOf37L-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-9" target="VYimN6RkKvtl3lPOf37L-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VYimN6RkKvtl3lPOf37L-9" value="Serve&lt;div&gt;(API)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="153" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VYimN6RkKvtl3lPOf37L-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-11" target="VYimN6RkKvtl3lPOf37L-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VYimN6RkKvtl3lPOf37L-11" value="Serve" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="153" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VYimN6RkKvtl3lPOf37L-13" value="Model Development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="250" width="230" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
