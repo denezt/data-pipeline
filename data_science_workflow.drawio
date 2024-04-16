@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T20:59:43.137Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3WuWNSCr93p8p0EdizH_" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T21:02:24.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jhDhAJVls57M2Ny5L8Bd" version="24.2.5" type="github">
   <diagram id="RiWKcLgWkrJcIcHR27N2">
     <mxGraphModel dx="1118" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="VYimN6RkKvtl3lPOf37L-4" value="&lt;b&gt;Consume&lt;/b&gt;&lt;div&gt;(API, Applications)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="570" y="181" width="110" height="149" as="geometry" />
+        </mxCell>
+        <mxCell id="VYimN6RkKvtl3lPOf37L-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-8" target="VYimN6RkKvtl3lPOf37L-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VYimN6RkKvtl3lPOf37L-8" value="User" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
           <mxGeometry x="730" y="194" width="50" height="50" as="geometry" />
