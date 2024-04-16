@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T20:32:50.803Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Re7QWYpzljSHGigH0AAh" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-16T20:33:30.884Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="bB9gMyN4B-y_-8sLFF57" version="24.2.5" type="github">
   <diagram id="RiWKcLgWkrJcIcHR27N2">
     <mxGraphModel dx="878" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -100,10 +100,10 @@
         <mxCell id="VYimN6RkKvtl3lPOf37L-35" value="Data Sources: The pipeline begins with a variety of data sources. These can be structured (e.g., databases), semi-structured (e.g., XML, CSV files), or unstructured (e.g., text, emails)." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="122" y="170" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-36" value="&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ingest:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data ingestion is the process of importing, transferring, loading, and processing data for later use or storage in a database. This step typically involves a data lake, where raw data is stored in its native format.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VYimN6RkKvtl3lPOf37L-36" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ingest:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data ingestion is the process of importing, transferring, loading, and processing data for later use or storage in a database. This step typically involves a data lake, where raw data is stored in its native format.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="80" y="720" width="210" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-38" value="&lt;div style=&quot;text-align: justify;&quot;&gt;Data Pipeline: This is a set of data processing steps. Validated data from the data lake goes through cleaning, standardization, and curation to prepare it for analysis.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="VYimN6RkKvtl3lPOf37L-38" value="&lt;div style=&quot;&quot;&gt;Data Pipeline: This is a set of data processing steps. Validated data from the data lake goes through cleaning, standardization, and curation to prepare it for analysis.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="402" y="740" width="308" height="70" as="geometry" />
         </mxCell>
       </root>
