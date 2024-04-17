@@ -1,123 +1,138 @@
-<mxfile host="app.diagrams.net" modified="2024-04-16T21:02:24.750Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="jhDhAJVls57M2Ny5L8Bd" version="24.2.5" type="github">
-  <diagram id="RiWKcLgWkrJcIcHR27N2">
-    <mxGraphModel dx="1118" dy="512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" modified="2024-04-17T07:16:56.617Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="vbuKPhZhORQU-H9TnV4g" version="24.2.5" type="github">
+  <diagram name="Seite-1" id="fTFykLj2f5kGOEzCg6G0">
+    <mxGraphModel dx="1195" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2" value="&lt;b&gt;Data Sources&lt;/b&gt;&lt;div&gt;(Structured, Semi-Structured, Unstructured)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="195" y="60" width="460" height="60" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-1" value="&lt;b&gt;Data Sources&lt;/b&gt;&lt;div&gt;(Structured, Semi-Structured, Unstructured)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="155" y="90" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;" edge="1" parent="1" source="2" target="VYimN6RkKvtl3lPOf37L-8">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-1" target="8dWeRQJoe6eqsGYIArm2-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="425" y="109" as="sourcePoint" />
+            <mxPoint x="385" y="139" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="425" y="169" />
-              <mxPoint x="755" y="169" />
+              <mxPoint x="385" y="199" />
+              <mxPoint x="715" y="199" />
+              <mxPoint x="715" y="240" />
+              <mxPoint x="755" y="240" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-4" value="&lt;b&gt;Consume&lt;/b&gt;&lt;div&gt;(API, Applications)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="570" y="181" width="110" height="149" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-3" value="&lt;b&gt;Consume&lt;/b&gt;&lt;div&gt;(API, Applications)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="530" y="211" width="110" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-8" target="VYimN6RkKvtl3lPOf37L-4">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-5" target="8dWeRQJoe6eqsGYIArm2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-8" value="User" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
-          <mxGeometry x="730" y="194" width="50" height="50" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-5" value="User" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" vertex="1" parent="1">
+          <mxGeometry x="730" y="270" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-9" target="VYimN6RkKvtl3lPOf37L-4">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-7" target="8dWeRQJoe6eqsGYIArm2-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-9" value="&lt;b&gt;Serve&lt;/b&gt;&lt;div&gt;(API)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="358" y="180" width="135" height="150" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-7" value="&lt;b&gt;Serve&lt;/b&gt;&lt;div&gt;(API)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="318" y="210" width="135" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-11" target="VYimN6RkKvtl3lPOf37L-9">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-9" target="8dWeRQJoe6eqsGYIArm2-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-11" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Model&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial; text-align: center;&quot;&gt;Deployment&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. Package&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Containerize&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. Deploy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="119.5" y="180" width="195" height="150" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Model&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial; text-align: center;&quot;&gt;Deployment&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. Package&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Containerize&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. Deploy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="79.5" y="210" width="195" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-13" value="&lt;b&gt;Model Development&lt;/b&gt;&lt;div&gt;(Code, Train, Validate, Evaluate)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="370" width="230" height="110" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-10" value="&lt;b&gt;Model Development&lt;/b&gt;&lt;div&gt;(Code, Train, Validate, Evaluate)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="450" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-14" target="VYimN6RkKvtl3lPOf37L-13">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-12" target="8dWeRQJoe6eqsGYIArm2-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="260" y="425" />
+              <mxPoint x="220" y="505" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-14" value="&lt;b&gt;Feature&lt;/b&gt;&lt;div&gt;&lt;b&gt;Engineering&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Extract and Select Features)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="115" y="440" width="180" height="130" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-12" value="&lt;b&gt;Feature&lt;/b&gt;&lt;div&gt;&lt;b&gt;Engineering&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Extract and Select Features)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="570" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.422;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-15" target="VYimN6RkKvtl3lPOf37L-9">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.422;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-16" target="8dWeRQJoe6eqsGYIArm2-7">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="679" y="383" as="sourcePoint" />
+            <mxPoint x="639" y="413" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="679" y="393" />
-              <mxPoint x="679" y="350" />
-              <mxPoint x="440" y="350" />
+              <mxPoint x="639" y="423" />
+              <mxPoint x="639" y="380" />
+              <mxPoint x="400" y="380" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-15" target="VYimN6RkKvtl3lPOf37L-13">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-16" target="8dWeRQJoe6eqsGYIArm2-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="425" as="targetPoint" />
+            <mxPoint x="560" y="455" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-30" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.554;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-15" target="VYimN6RkKvtl3lPOf37L-14">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-15" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.554;entryDx=0;entryDy=0;edgeStyle=orthogonalEdgeStyle;entryPerimeter=0;exitX=0.516;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-16" target="8dWeRQJoe6eqsGYIArm2-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="360" y="512" as="targetPoint" />
+            <mxPoint x="320" y="642" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="677" y="512" />
+              <mxPoint x="783" y="550" />
+              <mxPoint x="670" y="550" />
+              <mxPoint x="670" y="642" />
+            </Array>
+            <mxPoint x="637" y="587" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-16" value="&lt;b&gt;Monitor&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="1">
+          <mxGeometry x="750" y="446" width="64" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.485;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-18" target="8dWeRQJoe6eqsGYIArm2-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="640" as="targetPoint" />
+            <mxPoint x="460" y="710" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-18" value="&lt;b&gt;Data Pipeline&lt;/b&gt;&lt;div&gt;(Validate, Clean, Standardize, Curate)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="714" y="790" width="260" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-20" target="8dWeRQJoe6eqsGYIArm2-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="795" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-20" value="&lt;b&gt;Ingest&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="730" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-22" target="8dWeRQJoe6eqsGYIArm2-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="410" y="795" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-22" value="Data Lake" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="440" y="790" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;startArrow=block;startFill=1;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-9" target="8dWeRQJoe6eqsGYIArm2-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="220" as="sourcePoint" />
+            <mxPoint x="112" y="764" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="20" y="285" />
+              <mxPoint x="20" y="760" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-15" value="&lt;b&gt;Monitor&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;" vertex="1" parent="1">
-          <mxGeometry x="642" y="393" width="64" height="64" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Science Workflow&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="40" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.485;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-20" target="VYimN6RkKvtl3lPOf37L-14">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="430" y="510" as="targetPoint" />
-            <mxPoint x="500" y="580" as="sourcePoint" />
-          </mxGeometry>
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-25" value="Data Sources: The pipeline begins with a variety of data sources. These can be structured (e.g., databases), semi-structured (e.g., XML, CSV files), or unstructured (e.g., text, emails)." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="80" y="160" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-20" value="&lt;b&gt;Data Pipeline&lt;/b&gt;&lt;div&gt;(Validate, Clean, Standardize, Curate)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="402" y="580" width="260" height="100" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-26" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ingest:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data ingestion is the process of importing, transferring, loading, and processing data for later use or storage in a database. This step typically involves a data lake, where raw data is stored in its native format.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="32.5" y="810" width="265" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-24" target="VYimN6RkKvtl3lPOf37L-25">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-27" value="&lt;div style=&quot;&quot;&gt;Data Pipeline: This is a set of data processing steps. Validated data from the data lake goes through cleaning, standardization, and curation to prepare it for analysis.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="690" y="910" width="308" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-29" value="&lt;div style=&quot;&quot;&gt;Model Development: This includes writing the code for the model, training the model on pre-processed data, validating its performance, and evaluating its outcomes to ensure it meets the desired metrics.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="302.5" y="566" width="325" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-29" target="8dWeRQJoe6eqsGYIArm2-29">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-24" value="&lt;b&gt;Ingest&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="600" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" edge="1" parent="1" source="VYimN6RkKvtl3lPOf37L-25" target="VYimN6RkKvtl3lPOf37L-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-25" value="Data Lake" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;" vertex="1" parent="1">
-          <mxGeometry x="308" y="620" width="50" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2" target="VYimN6RkKvtl3lPOf37L-24">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="110" y="90" as="sourcePoint" />
-            <mxPoint x="152" y="634" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="90" y="90" />
-              <mxPoint x="90" y="630" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-32" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Science Workflow&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="275" y="10" width="300" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-35" value="Data Sources: The pipeline begins with a variety of data sources. These can be structured (e.g., databases), semi-structured (e.g., XML, CSV files), or unstructured (e.g., text, emails)." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="120" y="130" width="660" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-36" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ingest:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data ingestion is the process of importing, transferring, loading, and processing data for later use or storage in a database. This step typically involves a data lake, where raw data is stored in its native format.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="80" y="720" width="210" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="VYimN6RkKvtl3lPOf37L-38" value="&lt;div style=&quot;&quot;&gt;Data Pipeline: This is a set of data processing steps. Validated data from the data lake goes through cleaning, standardization, and curation to prepare it for analysis.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="402" y="740" width="308" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
