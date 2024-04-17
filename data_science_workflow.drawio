@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T08:45:58.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NICHoTkDraefPz3L9LLD" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T08:46:27.096Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="EZd1ljWjpJQFKz26W43w" version="24.2.5" type="github">
   <diagram name="Seite-1" id="fTFykLj2f5kGOEzCg6G0">
     <mxGraphModel dx="2336" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,7 +96,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="8dWeRQJoe6eqsGYIArm2-22" value="Data Lake" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="423" y="1045" width="50" height="50" as="geometry" />
+          <mxGeometry x="388" y="1045" width="50" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8dWeRQJoe6eqsGYIArm2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=oval;startFill=1;labelBackgroundColor=none;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-9" target="8dWeRQJoe6eqsGYIArm2-20" edge="1">
           <mxGeometry relative="1" as="geometry">
