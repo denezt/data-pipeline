@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T08:16:26.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="wZButI5SDegiI5n1BSi_" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T08:26:14.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="dqvyMWXfjKbD4cutK68b" version="24.2.5" type="github">
   <diagram name="Seite-1" id="fTFykLj2f5kGOEzCg6G0">
     <mxGraphModel dx="2514" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-1" value="&lt;b&gt;Data Sources&lt;/b&gt;&lt;div&gt;(Structured, Semi-Structured, Unstructured)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-1" value="&lt;b&gt;Data Sources&lt;/b&gt;&lt;div&gt;(Structured, Semi-Structured, Unstructured)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="90" width="460" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#23445D;labelBackgroundColor=none;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-1" target="8dWeRQJoe6eqsGYIArm2-5" edge="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-1" target="8dWeRQJoe6eqsGYIArm2-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="385" y="139" as="sourcePoint" />
             <Array as="points">
@@ -19,47 +19,43 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-3" value="&lt;b&gt;Consume&lt;/b&gt;&lt;div&gt;(API, Applications)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-3" value="&lt;b&gt;Consume&lt;/b&gt;&lt;div&gt;(API, Applications)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="530" y="211" width="110" height="149" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-5" target="8dWeRQJoe6eqsGYIArm2-3" edge="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=open;startFill=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-5" target="8dWeRQJoe6eqsGYIArm2-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-5" value="User" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;strokeColor=#FFFFFF;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;fillColor=#182E3E;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="730" y="270" width="50" height="50" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-5" value="User" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=none;verticalAlign=top;strokeWidth=2;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;" parent="1" vertex="1">
+          <mxGeometry x="720" y="260" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-7" target="8dWeRQJoe6eqsGYIArm2-3" edge="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-7" target="8dWeRQJoe6eqsGYIArm2-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-7" value="&lt;b&gt;Serve&lt;/b&gt;&lt;div&gt;(API)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-7" value="&lt;b&gt;Serve&lt;/b&gt;&lt;div&gt;(API)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="260" y="210" width="135" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-9" target="8dWeRQJoe6eqsGYIArm2-7" edge="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-9" target="8dWeRQJoe6eqsGYIArm2-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Model&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial; text-align: center;&quot;&gt;Deployment&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. Package&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Containerize&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. Deploy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-9" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;b&gt;Model&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;b style=&quot;background-color: initial; text-align: center;&quot;&gt;Deployment&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1. Package&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2. Containerize&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3. Deploy&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-120" y="210" width="195" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-10" value="&lt;b&gt;Model Development&lt;/b&gt;&lt;div&gt;(Code, Train, Validate, Evaluate)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-10" value="&lt;b&gt;Model Development&lt;/b&gt;&lt;div&gt;(Code, Train, Validate, Evaluate)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="185" y="576" width="230" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-12" target="8dWeRQJoe6eqsGYIArm2-10" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="55" y="674" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="ZcU75k188BRGfQHqdnhH-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-12" target="8dWeRQJoe6eqsGYIArm2-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-12" value="&lt;b&gt;Feature&lt;/b&gt;&lt;div&gt;&lt;b&gt;Engineering&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Extract and Select Features)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-90" y="753" width="180" height="130" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-12" value="&lt;b&gt;Feature&lt;/b&gt;&lt;div&gt;&lt;b&gt;Engineering&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Extract and Select Features)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-112.5" y="750" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.487;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-16" target="8dWeRQJoe6eqsGYIArm2-10" edge="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.487;exitDx=0;exitDy=0;exitPerimeter=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-16" target="8dWeRQJoe6eqsGYIArm2-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="395" y="624" as="targetPoint" />
             <mxPoint x="585" y="647" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZcU75k188BRGfQHqdnhH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=#23445D;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-16" target="8dWeRQJoe6eqsGYIArm2-7">
+        <mxCell id="ZcU75k188BRGfQHqdnhH-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-16" target="8dWeRQJoe6eqsGYIArm2-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="708" y="550" />
@@ -67,80 +63,83 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ZcU75k188BRGfQHqdnhH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#23445D;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-16" target="8dWeRQJoe6eqsGYIArm2-12">
+        <mxCell id="ZcU75k188BRGfQHqdnhH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" edge="1" parent="1" source="8dWeRQJoe6eqsGYIArm2-16" target="8dWeRQJoe6eqsGYIArm2-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="708" y="818" />
+              <mxPoint x="708" y="815" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-16" value="&lt;b&gt;Monitor&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-16" value="&lt;b&gt;Monitor&lt;/b&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/management_governance/Monitor.svg;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="676" y="600" width="64" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;curved=1;" parent="1" source="8dWeRQJoe6eqsGYIArm2-18" target="8dWeRQJoe6eqsGYIArm2-12" edge="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;curved=1;" parent="1" source="8dWeRQJoe6eqsGYIArm2-18" target="8dWeRQJoe6eqsGYIArm2-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="225" y="823" as="targetPoint" />
             <mxPoint x="675.0999999999999" y="1070" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-18" value="&lt;b&gt;Data Pipeline&lt;/b&gt;&lt;div&gt;(Validate, Clean, Standardize, Curate)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1004" y="1529.95" width="260" height="100" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-18" value="&lt;b&gt;Data Pipeline&lt;/b&gt;&lt;div&gt;(Validate, Clean, Standardize, Curate)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="664" y="1084.97" width="260" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-20" target="8dWeRQJoe6eqsGYIArm2-22" edge="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-20" target="8dWeRQJoe6eqsGYIArm2-22" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="180" y="1223.95" as="targetPoint" />
+            <mxPoint x="180" y="1115" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-20" value="&lt;b&gt;Ingest&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-70" y="1158.95" width="110" height="60" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-20" value="&lt;b&gt;Ingest&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-70" y="1050" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8dWeRQJoe6eqsGYIArm2-22" target="8dWeRQJoe6eqsGYIArm2-18" edge="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="8dWeRQJoe6eqsGYIArm2-22" target="8dWeRQJoe6eqsGYIArm2-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="1233.95" as="sourcePoint" />
+            <mxPoint x="400" y="1125" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-22" value="Data Lake" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;labelBackgroundColor=none;fillColor=#182E3E;strokeColor=#FFFFFF;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="385" y="1218.95" width="50" height="50" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-22" value="Data Lake" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="365" y="1055" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=1;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" target="8dWeRQJoe6eqsGYIArm2-20" edge="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=1;labelBackgroundColor=none;fontColor=default;" parent="1" target="8dWeRQJoe6eqsGYIArm2-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-130" y="280" as="sourcePoint" />
             <mxPoint x="-68" y="1192.95" as="targetPoint" />
             <Array as="points">
               <mxPoint x="-160" y="280" />
-              <mxPoint x="-160" y="1189" />
+              <mxPoint x="-160" y="1080" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Science Workflow&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Science Workflow&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="235" y="40" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-25" value="Data Sources: The pipeline begins with a variety of data sources. These can be structured (e.g., databases), semi-structured (e.g., XML, CSV files), or unstructured (e.g., text, emails)." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#182E3E;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-25" value="Data Sources: The pipeline begins with a variety of data sources. These can be structured (e.g., databases), semi-structured (e.g., XML, CSV files), or unstructured (e.g., text, emails)." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="-20" y="160" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-26" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ingest:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data ingestion is the process of importing, transferring, loading, and processing data for later use or storage in a database. This step typically involves a data lake, where raw data is stored in its native format.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#182E3E;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="-147.5" y="1238.95" width="265" height="110" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-26" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ingest:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data ingestion is the process of importing, transferring, loading, and processing data for later use or storage in a database. This step typically involves a data lake, where raw data is stored in its native format.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-147.5" y="1140" width="265" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-27" value="&lt;div style=&quot;&quot;&gt;Data Pipeline: This is a set of data processing steps. Validated data from the data lake goes through cleaning, standardization, and curation to prepare it for analysis.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#182E3E;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="980" y="1660" width="308" height="70" as="geometry" />
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-27" value="&lt;div style=&quot;&quot;&gt;Data Pipeline: This is a set of data processing steps. Validated data from the data lake goes through cleaning, standardization, and curation to prepare it for analysis.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="640" y="1201.05" width="308" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-29" value="&lt;div style=&quot;&quot;&gt;Model Development: This includes writing the code for the model, training the model on pre-processed data, validating its performance, and evaluating its outcomes to ensure it meets the desired metrics.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#182E3E;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-29" value="&lt;div style=&quot;&quot;&gt;Model Development: This includes writing the code for the model, training the model on pre-processed data, validating its performance, and evaluating its outcomes to ensure it meets the desired metrics.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="137.5" y="692" width="325" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;strokeColor=#23445D;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-29" target="8dWeRQJoe6eqsGYIArm2-29" edge="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;labelBackgroundColor=none;fontColor=default;" parent="1" source="8dWeRQJoe6eqsGYIArm2-29" target="8dWeRQJoe6eqsGYIArm2-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ZcU75k188BRGfQHqdnhH-1" value="&lt;div style=&quot;&quot;&gt;Model Development: This includes writing the code for the model, training the model on pre-processed data, validating its performance, and evaluating its outcomes to ensure it meets the desired metrics.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#182E3E;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="ZcU75k188BRGfQHqdnhH-1" value="&lt;div style=&quot;&quot;&gt;Model Development: This includes writing the code for the model, training the model on pre-processed data, validating its performance, and evaluating its outcomes to ensure it meets the desired metrics.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="-100" y="385" width="170" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="ZcU75k188BRGfQHqdnhH-2" value="&lt;div style=&quot;&quot;&gt;Serve: After deployment, the model is served via APIs (Application Programming Interfaces) so that applications can consume the model&#39;s predictive capabilities.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#182E3E;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1436" y="389" width="170" height="124" as="geometry" />
+        <mxCell id="ZcU75k188BRGfQHqdnhH-2" value="&lt;div style=&quot;&quot;&gt;Feature Engineering: This is a crucial step where data scientists select and extract features that will be used to train the machine learning model. Features are individual independent variables that act like input in your system.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="-90" y="900" width="170" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="ZcU75k188BRGfQHqdnhH-3" value="&lt;div style=&quot;&quot;&gt;Model Development: This includes writing the code for the model, training the model on pre-processed data, validating its performance, and evaluating its outcomes to ensure it meets the desired metrics.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#182E3E;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1250" y="58" width="170" height="124" as="geometry" />
+        <mxCell id="ZcU75k188BRGfQHqdnhH-3" value="&lt;div style=&quot;&quot;&gt;Model Development: This includes writing the code for the model, training the model on pre-processed data, validating its performance, and evaluating its outcomes to ensure it meets the desired metrics.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="500" y="385" width="170" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="ZcU75k188BRGfQHqdnhH-4" value="&lt;div style=&quot;&quot;&gt;Serve: After deployment, the model is served via APIs (Application Programming Interfaces) so that applications can consume the model&#39;s predictive capabilities.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#182E3E;strokeColor=#FFFFFF;labelBackgroundColor=none;fontColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1486" y="218" width="170" height="124" as="geometry" />
+        <mxCell id="ZcU75k188BRGfQHqdnhH-4" value="&lt;div style=&quot;&quot;&gt;Serve: After deployment, the model is served via APIs (Application Programming Interfaces) so that applications can consume the model&#39;s predictive capabilities.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="242.5" y="385" width="170" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="ZcU75k188BRGfQHqdnhH-14" value="&lt;div style=&quot;&quot;&gt;Monitor: The deployed model is continuously monitored to ensure it performs well and to detect when it needs to be updated or retrained.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="545.5" y="694" width="325" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
