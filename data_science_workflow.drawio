@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T08:45:03.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="KYrCzZkS7qLbjskzfBqH" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T08:45:58.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="NICHoTkDraefPz3L9LLD" version="24.2.5" type="github">
   <diagram name="Seite-1" id="fTFykLj2f5kGOEzCg6G0">
-    <mxGraphModel dx="3434" dy="1575" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2336" dy="912" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
           <mxGeometry x="38" y="153" width="660" height="30" as="geometry" />
         </mxCell>
         <mxCell id="8dWeRQJoe6eqsGYIArm2-26" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ingest:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data ingestion is the process of importing, transferring, loading, and processing data for later use or storage in a database. This step typically involves a data lake, where raw data is stored in its native format.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="-97" y="1130" width="265" height="110" as="geometry" />
+          <mxGeometry x="-97" y="1116.08" width="265" height="110" as="geometry" />
         </mxCell>
         <mxCell id="8dWeRQJoe6eqsGYIArm2-27" value="&lt;div style=&quot;&quot;&gt;Data Pipeline: This is a set of data processing steps. Validated data from the data lake goes through cleaning, standardization, and curation to prepare it for analysis.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="612" y="1136.08" width="308" height="70" as="geometry" />
@@ -130,7 +130,7 @@
           <mxGeometry x="-49.5" y="375" width="170" height="124" as="geometry" />
         </mxCell>
         <mxCell id="ZcU75k188BRGfQHqdnhH-2" value="&lt;div style=&quot;&quot;&gt;Feature Engineering: This is a crucial step where data scientists select and extract features that will be used to train the machine learning model. Features are individual independent variables that act like input in your system.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="-32" y="890" width="170" height="124" as="geometry" />
+          <mxGeometry x="-49.5" y="880" width="170" height="124" as="geometry" />
         </mxCell>
         <mxCell id="ZcU75k188BRGfQHqdnhH-3" value="&lt;div style=&quot;&quot;&gt;Model Development: This includes writing the code for the model, training the model on pre-processed data, validating its performance, and evaluating its outcomes to ensure it meets the desired metrics.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="558" y="375" width="170" height="124" as="geometry" />
