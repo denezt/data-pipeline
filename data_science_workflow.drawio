@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T08:27:37.527Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ZYTx95H414XKRD--jTNV" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T08:30:30.795Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gQNPjVzJ3VhGo0PeRFKv" version="24.2.5" type="github">
   <diagram name="Seite-1" id="fTFykLj2f5kGOEzCg6G0">
-    <mxGraphModel dx="2261" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2876" dy="1237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,12 +95,12 @@
         <mxCell id="8dWeRQJoe6eqsGYIArm2-22" value="Data Lake" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/cluster_server.svg;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="365" y="1055" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=1;labelBackgroundColor=none;fontColor=default;" parent="1" target="8dWeRQJoe6eqsGYIArm2-20" edge="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=1;labelBackgroundColor=none;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="8dWeRQJoe6eqsGYIArm2-9" target="8dWeRQJoe6eqsGYIArm2-20" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-130" y="280" as="sourcePoint" />
             <mxPoint x="-68" y="1192.95" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="-160" y="280" />
+              <mxPoint x="-160" y="285" />
               <mxPoint x="-160" y="1080" />
             </Array>
           </mxGeometry>
