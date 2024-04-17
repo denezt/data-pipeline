@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-17T08:26:14.264Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="dqvyMWXfjKbD4cutK68b" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-17T08:27:09.068Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="dTosshU2zTo_oPQyfcXN" version="24.2.5" type="github">
   <diagram name="Seite-1" id="fTFykLj2f5kGOEzCg6G0">
     <mxGraphModel dx="2514" dy="1019" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,11 +11,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="385" y="139" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="385" y="150" />
-              <mxPoint x="385" y="199" />
-              <mxPoint x="715" y="199" />
-              <mxPoint x="715" y="200" />
-              <mxPoint x="755" y="200" />
+              <mxPoint x="310" y="199" />
+              <mxPoint x="755" y="199" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -111,13 +108,13 @@
         <mxCell id="8dWeRQJoe6eqsGYIArm2-24" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Data Science Workflow&amp;nbsp;&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="235" y="40" width="300" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-25" value="Data Sources: The pipeline begins with a variety of data sources. These can be structured (e.g., databases), semi-structured (e.g., XML, CSV files), or unstructured (e.g., text, emails)." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-25" value="Data Sources: The pipeline begins with a variety of data sources. These can be structured (e.g., databases), semi-structured (e.g., XML, CSV files), or unstructured (e.g., text, emails)." style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-20" y="160" width="660" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-26" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ingest:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data ingestion is the process of importing, transferring, loading, and processing data for later use or storage in a database. This step typically involves a data lake, where raw data is stored in its native format.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-26" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Ingest:&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Data ingestion is the process of importing, transferring, loading, and processing data for later use or storage in a database. This step typically involves a data lake, where raw data is stored in its native format.&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="-147.5" y="1140" width="265" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="8dWeRQJoe6eqsGYIArm2-27" value="&lt;div style=&quot;&quot;&gt;Data Pipeline: This is a set of data processing steps. Validated data from the data lake goes through cleaning, standardization, and curation to prepare it for analysis.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="8dWeRQJoe6eqsGYIArm2-27" value="&lt;div style=&quot;&quot;&gt;Data Pipeline: This is a set of data processing steps. Validated data from the data lake goes through cleaning, standardization, and curation to prepare it for analysis.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="640" y="1201.05" width="308" height="70" as="geometry" />
         </mxCell>
         <mxCell id="8dWeRQJoe6eqsGYIArm2-29" value="&lt;div style=&quot;&quot;&gt;Model Development: This includes writing the code for the model, training the model on pre-processed data, validating its performance, and evaluating its outcomes to ensure it meets the desired metrics.&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
