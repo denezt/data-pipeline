@@ -162,7 +162,7 @@ cython_debug/
 # Locally generated
 upload_sources/cleaning/**
 # Local datasource
-upload_sources/datasource/**
+upload_sources/datasource
 # Virtual Environment
 upload_sources/minio-venv/**
 # Local Settings
