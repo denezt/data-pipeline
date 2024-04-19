@@ -160,11 +160,11 @@ cython_debug/
 #.idea/
 
 # Locally generated
-upload_sources/cleaning/**
+cleaning/**
 # Local datasource
-upload_sources/datasource
+datasource/**
 # Virtual Environment
-upload_sources/minio-venv/**
+minio-venv/**
 # Local Settings
-upload_sources/settings/**
-upload_sources/minio-py
+settings/**
+
